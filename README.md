@@ -1,4 +1,4 @@
-<h2>Este site, utilizando HTML CSS e Javascript, verifica quantas copas do mundo você viu o Brasil ganhar!</h2>
+<h2>Este site, utilizando HTML+CSS e Javascript, verifica quantas copas do mundo você viu o Brasil ganhar!</h2>
 <h3>Conceitos utilizados:</h3>
 <p>Marcações em HTML, estilização com CSS e interação utilizando JS (Utilização de variáveis, declaração de função e lógica de programação.)
 
