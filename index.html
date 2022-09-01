@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantas copas?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+       
+        <h1>Quantas copas você viu o Brasil ganhar?</h1>
+   
+    </header>
+    
+    <section>
+        <div>
+            <p>Qual a sua idade?
+                <input type="number" name="idadeatual" id="idadeatual" min="5" max="110">
+            </p>
+            <p>Qual seu nome?
+                <input type="text" name="nome" id="nome">
+            </p>     
+            <p>
+                <input type="button" value="Verificar" onclick="verificar()">
+            </p> 
+        </div>
+        <div id="res">
+            Preencha os dados acima para ver o resultado!<br><br>
+        </div>
+        <div id="foto">
+            <img id="imagem" src="neymar.png" alt="fotorandom">
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Fernando Campana</p>
+    </footer>
+    <script src="script.js"></script>
+    
+</body>
+</html>
