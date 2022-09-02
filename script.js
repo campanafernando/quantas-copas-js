@@ -15,7 +15,7 @@ function verificar(){
             img.src = 'davidluiz.png'
 
         }
-        else if (idade.value < 27){
+        else if (idade.value < 28){
             res.innerHTML = `${nome.value} você tem ${idade.value} anos e acompanhou a conquista do Penta! uma copa!\n`
             img.src = 'ronaldofenomeno.png'
 
